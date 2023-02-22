@@ -1,0 +1,9 @@
+# Directories
+__pycache__/
+.venv/
+.vscode/
+
+# Development
+development.py
+client.ps1
+server.ps1
